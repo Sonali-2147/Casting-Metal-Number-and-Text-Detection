@@ -26,7 +26,7 @@ pip install easyocr opencv-python matplotlib
 1. Place your input image in the project directory and name it `image2.png`.
 2. Run the script using:
    ```bash
-   python main.py
+   python app.py
    ```
 3. The script will:
    - Load the image using OpenCV.
