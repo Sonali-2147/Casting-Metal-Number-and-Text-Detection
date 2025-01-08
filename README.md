@@ -74,5 +74,10 @@ pip install easyocr opencv-python matplotlib
 - The detected text and confidence scores will be saved in `detected_text.csv`.
 - The image with text annotations will be displayed.
 
+## Output Screenshot
+
+![Screenshot 2025-01-08 145825](https://github.com/user-attachments/assets/9f82af05-47ed-4c11-b55a-c52296908484)
+
+
 ## Contact
 For any queries or feedback, please email me at kadamsonali2147@gmail.com.
